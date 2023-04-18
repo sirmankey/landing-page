@@ -1,0 +1,40 @@
+
+
+.header{
+    background-color: #1f2937;
+    display:flex;
+}
+
+.logo{
+    color:#f9faf8;
+    font-size: 24px;
+}
+.hero-main{
+    font-size: 48px;
+    font-weight: bolder;
+    color:#f9faf8;
+}
+
+.hero-secondary, .links{
+    font-size:18px;
+    color:#e5e7eb;
+}
+
+
+a:link { text-decoration: none;
+    color:#e5e7eb }
+
+
+a:visited { text-decoration: none;
+color:#e5e7eb  }
+
+
+a:hover { text-decoration: none;
+color:#e5e7eb  }
+
+
+a:active { text-decoration: none;
+color:#e5e7eb  }
+
+ul{
+    list-style: none;}
